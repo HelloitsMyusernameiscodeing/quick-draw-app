@@ -1,0 +1,12 @@
+body{
+ background-color: burlywood;
+ font-family:'McLaren', sans-serif ; 
+}
+#Score{
+    font-size: 25px;
+    font-family:'McLaren', sans-serif ;
+}
+#Timer{
+    font-size: 15px;
+    font-family:'McLaren', sans-serif;
+}
